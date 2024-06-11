@@ -32,4 +32,9 @@
 		- adds all modified files in your current directory to the staging area	
 
 *	git add "filename" 
-		- adds a specific file to the staging area
+		- adds a specific file to the staging area hello
+*	git log
+		- displays all the commits that were made
+
+*	git log --oneline
+		- condensed version of git log
