@@ -37,4 +37,4 @@
 		- displays all the commits that were made
 
 *	git log --oneline
-		- condensed version of git log
+		- condensed version of git log hello
